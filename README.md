@@ -12,4 +12,5 @@ This is my portfolio project using HTML, CSS, and Bootstrap
 
 ## How to Use?
 - Use template to make your own portfolio
-<img width="1249" alt="Screen Shot 2022-09-02 at 4 27 19 PM" src="https://user-images.githubusercontent.com/59347388/188230902-64d552a0-3cff-423a-bb52-220b47a447fb.png">
+
+<img width="1383" alt="Screen Shot 2022-09-02 at 4 28 58 PM" src="https://user-images.githubusercontent.com/59347388/188231060-b1914859-a349-4b62-9fbb-5a7a9ce9c371.png">
